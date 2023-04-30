@@ -5,7 +5,7 @@ HouseHunterBot
 
 ### Install
 
-- create the necessary Google Developers and CALLR accounts to enable access to necessary APIs as described [
+- create the necessary Google Developers and CALLR accounts to enable access to necessary APIs
 
 - install the requirements
 
