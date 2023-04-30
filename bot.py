@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup as Bs
 
 
 SEARCH_PAGE = 'http://www.pap.fr/annonce/locations-appartement-paris-18e-g37785-3-pieces-jusqu-a-1500-euros'
-SPREADSHEET_URL = os.environ.get('SPREADSHEET_URL')
+SPREADSHEET_URL = os.environ.get('https://docs.google.com/spreadsheets/d/1IqGKtEuHGI-8coqExJO_Qxw4bo7GzwO6a8U12RdrJvE/edit#gid=0')
 URL_DOMAIN = 'http://www.pap.fr'
 
 PAGINATION_SELECTOR = '.pagination li a'
