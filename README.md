@@ -2,13 +2,10 @@ HouseHunterBot
 ================
 > Use Python, Google Spreadsheet, Google Shortener and CALLR API to automate your apartment search in Paris.
 
-### Synopsis
-
-[Read the related article on the CALLR blog](https://www.callr.com/blog/python-house-hunter-bot/?utm_source=davy&utm_medium=github).
 
 ### Install
 
-- create the necessary Google Developers and CALLR accounts to enable access to necessary APIs as described [in the article](https://www.callr.com/blog/python-house-hunter-bot/?utm_source=davy&utm_medium=github)
+- create the necessary Google Developers and CALLR accounts to enable access to necessary APIs as described [
 
 - install the requirements
 
